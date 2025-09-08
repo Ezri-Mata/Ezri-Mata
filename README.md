@@ -6,7 +6,7 @@
    - email: ezri@tamu.edu
    - Phone: 956-314-2401
    - LinkedIn: linkedin.com/in/ezrimata
-- ⚡ Fun fact: I'm an extreme musician. I can spend hours nonstop passionately in music. 
+- ⚡ Fun fact: I'm a dedicated musician. I can spend hours nonstop passionately in music. 
 
 <!---
 Ezri-Mata/Ezri-Mata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
